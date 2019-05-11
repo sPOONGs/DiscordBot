@@ -1,4 +1,4 @@
-discord.py==19.1.1
-requests.py==19.1.1
-asyncio.py==19.1.1
-loads.py==19.1.1
+discord.py==0.16.12
+requests.py==0.16.12
+asyncio.py==0.16.12
+loads.py==0.16.12
