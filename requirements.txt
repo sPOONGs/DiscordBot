@@ -1,0 +1,4 @@
+discord.py==19.1.1
+requests.py==19.1.1
+asyncio.py==19.1.1
+loads.py==19.1.1
